@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "08_Interfaces_eab66b0f"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
